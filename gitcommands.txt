@@ -1,0 +1,43 @@
+  349  cd ejercicio-grupal1_CodingDojo/
+  350  git add README.md
+  351  git commit -m "Stefano 2 commit"
+  352  git push
+  353  git log
+  354  git push
+  355  git pull
+  356  git status
+  357  git add README.md
+  358  git commit -m "Readme Stefano"
+  359  git push
+  360  git branch
+  361  git checkout stefano
+  362  git checkout stefano
+  363  git checkout -b stefano
+  364  git branch
+  365  git add README.md
+  366  git commit -m "Readme branch stefano"
+  367  git push
+  368  git merge main
+  369  git checkout main
+  370  git branch
+  371  git checkout Main
+  372  git branch
+  373  git stash
+  374  git checkout Main
+  375  git branch
+  376  git add README.md
+  377  git commit -m "Readme branch stefano"
+  378  git branch
+  379  git checkout stefano
+  380  git stash pop
+  381  git merge Main
+  382  git add .
+  383  git commit -m "Readme modified"
+  384  git merge Main
+  385  git add README.md 
+  386  git commit -m "Readme added"
+  387  git push
+  388  git origin
+  389  origin
+  390  git push origin stefano
+  391  history 60
